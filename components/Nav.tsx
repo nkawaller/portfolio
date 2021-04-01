@@ -1,4 +1,3 @@
-import Link from 'next/link'
 import navStyles from '../styles/Nav.module.scss'
 
 
@@ -7,16 +6,16 @@ const Nav = () => {
         <nav className={navStyles.nav}>
             <ul>
                 <li>
-                    <Link href='/'>LinkedIn</Link>
+                    <a href='https://www.linkedin.com/in/nathan-kawaller-b035b01b6/' target='_blank'>LinkedIn</a>
                 </li>
                 <li>
-                    <Link href='/'>Github</Link>
+                    <a href='https://github.com/nkawaller'>Github</a>
                 </li>
                 <li>
-                    <Link href='/'>Twitter</Link>
+                    <a href='https://twitter.com'>Twitter</a>
                 </li>
                 <li>
-                    <Link href='/'>Email</Link>
+                    <a href="mailto: kawaller@gmail.com">Email</a>
                 </li>
             </ul>
         </nav>
