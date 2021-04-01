@@ -13,10 +13,14 @@ const Nav: React.FC = () => {
           </a>
         </li>
         <li>
-          <a href="https://github.com/nkawaller">Github</a>
+          <a href="https://github.com/nkawaller" target="_blank">
+            Github
+          </a>
         </li>
         <li>
-          <a href="https://twitter.com">Twitter</a>
+          <a href="https://twitter.com" target="_blank">
+            Twitter
+          </a>
         </li>
         <li>
           <a href="mailto: kawaller@gmail.com">Email</a>
