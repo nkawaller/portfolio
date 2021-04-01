@@ -1,6 +1,6 @@
 import navStyles from "../styles/Nav.module.scss";
 
-const Nav = () => {
+const Nav: React.FC = () => {
   return (
     <nav className={navStyles.nav}>
       <ul>

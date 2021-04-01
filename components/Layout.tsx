@@ -3,7 +3,7 @@ import Meta from "./Meta";
 import Header from "./Header";
 import styles from "../styles/Layout.module.scss";
 
-const Layout = ({ children }) => {
+const Layout: React.FC = ({ children }) => {
   return (
     <>
       <Meta />

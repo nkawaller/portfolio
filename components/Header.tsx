@@ -1,6 +1,6 @@
 import headerStyles from "../styles/Header.module.scss";
 
-const Header = () => {
+const Header: React.FC = () => {
   return (
     <div>
       <h1 className={headerStyles.title}>Nathan Kawaller</h1>
