@@ -10,13 +10,6 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          <a href="/">Nathan Kawaller</a>
-        </h1>
-
-        <p className={styles.description}>
-          Paragraph explaining who I am and what I do
-        </p>
 
       </main>
 
