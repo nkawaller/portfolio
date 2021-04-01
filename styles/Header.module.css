@@ -3,6 +3,7 @@
   line-height: 1.15;
   font-size: 5rem;
   font-weight: 600;
+  color: var(--font-color);
 }
 
 .title,
@@ -13,4 +14,5 @@
 .description {
   line-height: 1.5;
   font-size: 1.5rem;
+  color: var(--font-color-alt)
 }

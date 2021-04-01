@@ -1,4 +1,4 @@
-import navStyles from "../styles/Nav.module.scss";
+import navStyles from "../styles/Nav.module.css";
 
 const Nav: React.FC = () => {
   return (
