@@ -1,6 +1,6 @@
 import Nav from "./Nav";
 import Meta from "./Meta";
-import Header from "./Header";
+import Body from "./Body";
 import styles from "../styles/Layout.module.css";
 
 const Layout: React.FC = ({ children }) => {
@@ -10,7 +10,7 @@ const Layout: React.FC = ({ children }) => {
       <Nav />
       <div className={styles.container}>
         <main className={styles.main}>
-          <Header />
+          <Body />
           {children}
         </main>
       </div>

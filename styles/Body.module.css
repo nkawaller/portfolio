@@ -17,16 +17,16 @@
   color: var(--font-color)
 } */
 
+.section {
+  margin-left: 15rem;
+  margin-right: 15rem;
+  /* background: peachpuff; */
+  /* margin-top: -10px; */
+}
+
 .title {
   font-size: 4.209rem;
   font-weight: 400;
-}
-
-.bio {
-  margin-left: 15rem;
-  margin-right: 15rem;
-  background: peachpuff;
-  /* line-height: 1.75; */
 }
 
 .description {
