@@ -5,6 +5,7 @@
   color: var(--font-color);
   align-items: center;
   justify-content: flex-end;
+  background: papayawhip;
 }
 
 .nav ul {
