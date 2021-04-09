@@ -9,6 +9,7 @@ const Nav: React.FC = () => {
             href="https://www.linkedin.com/in/nathan-kawaller-b035b01b6/"
             target="_blank"
             className={navStyles.middle}
+            rel='noopener'
           >
             LinkedIn
           </a>
@@ -18,6 +19,7 @@ const Nav: React.FC = () => {
             href="https://github.com/nkawaller"
             target="_blank"
             className={navStyles.middle}
+            rel='noopener'
           >
             Github
           </a>
@@ -27,6 +29,7 @@ const Nav: React.FC = () => {
             href="https://twitter.com"
             target="_blank"
             className={navStyles.middle}
+            rel='noopener'
           >
             Twitter
           </a>
