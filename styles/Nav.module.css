@@ -1,6 +1,6 @@
 .nav {
-  height: 50px;
-  padding: 10px;
+  /* height: 50px; */
+  padding: 0px 60.0829;
   display: flex;
   color: var(--font-color);
   align-items: center;

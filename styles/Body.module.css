@@ -25,11 +25,13 @@
 }
 
 .title {
-  font-size: 4.209rem;
+  font-size: 80.1106px;
   font-weight: 400;
+  margin: 0px 0px 80.1106px;
 }
 
 .description {
-  font-size: 1rem;
+  font-size: 24.0332px;
   line-height: 1.75;
+  margin-top: 0;
 }
